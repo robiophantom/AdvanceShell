@@ -1,4 +1,9 @@
-# AdvanceShell for Windows with following features:-
-### 1. Autocomplete commands.
-### 2. Get info about a command parallelly while typing it.
-### And else many more features need to be added like integrating it with AI.
+# mysh – AI-Enhanced Natural Language Shell
+
+### mysh is a custom Python shell designed to behave like a lightweight version of Linux shells (fish, bash, zsh) — but with a powerful twist:
+
+✔ Supports traditional shell commands
+✔ Includes advanced built-ins (network tools, history, file operations)
+✔ Features automatic autosuggestions
+✔ Maintains persistent shell history
+✔ AND — integrates a Natural Language Processing (NLP) engine using Groq LLM
